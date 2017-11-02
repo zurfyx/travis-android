@@ -8,3 +8,6 @@
 /.idea
 /library
 /captures
+
+keys.txt
+keystore.jks
